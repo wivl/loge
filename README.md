@@ -1,2 +1,2 @@
 # loge
- minimum log functions
+ minimum print functions
